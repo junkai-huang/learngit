@@ -6,3 +6,4 @@ my first try on push
 
 Creating a new branch is quick and simple.
 Creating dev.
+add merge
